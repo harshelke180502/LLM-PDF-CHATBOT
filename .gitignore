@@ -1,1 +1,17 @@
+# FAISS / Vector DB
+faiss_index/
+*.faiss
+*.pkl
+
+# Environment variables
 .env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# OS
+.DS_Store
