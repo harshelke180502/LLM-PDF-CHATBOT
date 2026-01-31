@@ -1,8 +1,12 @@
 streamlit
 python-dotenv
-langchain
-langchain-community
 PyPDF2
-faiss-cpu
+
+langchain==0.0.354
+langchain-community
+langchain-openai
+langsmith==0.0.92
+
 sentence-transformers
-ollama
+faiss-cpu
+
